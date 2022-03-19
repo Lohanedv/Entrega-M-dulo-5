@@ -1,0 +1,63 @@
+.Dest{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/DstinoF.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0px 0px 10px 1px black;
+    background-position: relative;
+    opacity: 0.9; 
+    background-image:-moz-linear-gradient(top);
+}
+.center{
+    color: #04043f;
+    text-align: center;
+}
+.info{
+    text-align: right;
+    color:#04043f;
+}
+.card-1{
+    background-image: url(../Destinos/ImagemDestino/Dest1.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-2{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/Dest2.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-3{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/Dest3.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-4{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/Dest4.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-5{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/Dest5.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-6{
+    background-image: url(../../Paginas/Destinos/ImagemDestino/Dest6.jpg);
+    box-shadow: 0px 0px 10px 1px black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+.card-footer{
+    color: black;
+    font-weight: bold;
+}

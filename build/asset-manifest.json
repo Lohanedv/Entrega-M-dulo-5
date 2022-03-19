@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b7e8b479.css",
+    "main.js": "/static/js/main.fdb30856.js",
+    "static/media/Dest2.jpg": "/static/media/Dest2.6ac60c62d549a683c14a.jpg",
+    "static/media/Promo2.jpg": "/static/media/Promo2.482c154de29d8335d1be.jpg",
+    "static/media/Dest4.jpg": "/static/media/Dest4.d5a9de94b4b9e8cedd18.jpg",
+    "static/media/Druilho.jpg": "/static/media/Druilho.d5a9de94b4b9e8cedd18.jpg",
+    "static/media/Dest1.jpg": "/static/media/Dest1.163723e40fe0a6ff36b9.jpg",
+    "static/media/Promo1.jpg": "/static/media/Promo1.f0bb7965d290700d583f.jpg",
+    "static/media/Passeios.jpg": "/static/media/Passeios.9d49ad9212a6beee5bfc.jpg",
+    "static/media/Mochila.jpg": "/static/media/Mochila.07dcdacc84b6af2c4a80.jpg",
+    "static/media/Promo3.jpg": "/static/media/Promo3.47d6505ceface320130a.jpg",
+    "static/media/Lariza.jpg": "/static/media/Lariza.57b56e14a6ca5bb0a683.jpg",
+    "static/media/Todrigo.jpg": "/static/media/Todrigo.968ed8833b760e674290.jpg",
+    "static/media/FamiliaSouza.jpg": "/static/media/FamiliaSouza.6cac77e7cdae4a7d2112.jpg",
+    "static/media/Reserva.jpg": "/static/media/Reserva.7254db9ddd5602c4b7f4.jpg",
+    "static/media/Barraca.jpg": "/static/media/Barraca.ed1556441c572366bdcd.jpg",
+    "static/media/ContatoF.jpg": "/static/media/ContatoF.a29147e9590eb9818015.jpg",
+    "static/media/Cadastro.jpg": "/static/media/Cadastro.692328eb7c9bf7bf27f1.jpg",
+    "static/media/Promo.jpg": "/static/media/Promo.b32ab78ada7f06b03fea.jpg",
+    "static/media/Dest3.jpg": "/static/media/Dest3.bc6701ae133fde887679.jpg",
+    "static/media/Dest5.jpg": "/static/media/Dest5.b98df5f4aaae79997d97.jpg",
+    "static/media/DstinoF.jpg": "/static/media/DstinoF.17a33b22cd3f2a9c0d73.jpg",
+    "static/media/FotoFundo.jpg": "/static/media/FotoFundo.23dfae2fcc70a6e4aaaa.jpg",
+    "static/media/FundoHome.jpg": "/static/media/FundoHome.42f53feb6040abcd18ea.jpg",
+    "index.html": "/index.html",
+    "main.b7e8b479.css.map": "/static/css/main.b7e8b479.css.map",
+    "main.fdb30856.js.map": "/static/js/main.fdb30856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e8b479.css",
+    "static/js/main.fdb30856.js"
+  ]
+}

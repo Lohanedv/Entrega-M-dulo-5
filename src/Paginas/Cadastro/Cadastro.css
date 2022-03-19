@@ -1,0 +1,32 @@
+.Imagem{
+    background-image: url(../../Paginas/Contato/FundoContato/ContatoF.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0px 0px 10px 1px black;
+    background-position: relative;
+    display: flex;
+}
+.Cad.card.container{
+    background-color: transparent;
+    text-align:center;
+    color: #fcfcfc;
+    text-shadow: 0px 0px 10px rgb(19, 12, 12);
+    font-weight: bold;
+    margin-top: 10px;
+    display: flex;
+}
+.invalid-feedback {
+    font-weight: bold;
+    color:white;
+    font-size: 20px;
+    text-shadow: 2px 4px 5px black, 0 0 5px #050505;
+}
+.col-12 {
+    color: black
+}
+.form-check{
+   text-align: justify;
+   font-size: 20px;
+   color:green;
+   font-weight: bold;
+}

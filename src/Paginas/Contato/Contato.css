@@ -1,0 +1,21 @@
+.Foto{
+    padding: 10px;
+    background-image: url(../../Paginas/Cadastro/FotoCadastro/Cadastro.jpg);
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+    box-shadow: 0px 0px 10px 1px black;
+    background-position: center;  
+    display:flex;
+}
+.Cont.card.container{
+    margin-top: 10px;
+    background-color: transparent;
+    text-align: justify;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    text-shadow: 2px 4px 5px black, 0 0 1px rgb(234, 235, 228);;
+}
+.form-check-label.t{
+    color: black;
+}

@@ -1,0 +1,31 @@
+.card.M{
+    background-image: url(../Carrosel/Imagem/Mochila.jpg);
+    background-size: 100% 100%;
+    background-color: transparent;
+}
+.card.B{
+    background-image: url(../Carrosel/Imagem/Barraca.jpg);
+    background-size: 100% 100%;
+    background-color: transparent;
+}
+.card.P{
+    background-image: url(../Carrosel/Imagem/Passeios.jpg);
+    background-size: 100% 100%;
+    background-color: transparent;
+}
+.m.card.container {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    font-display: bold;
+    display: inline-block;
+}
+.card.text {
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    font-display: bold;
+}
+.col.h{
+    background-color: rgb(120, 221, 120)
+}

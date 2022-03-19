@@ -1,0 +1,12 @@
+.FotoReserva{
+    background-image: url(../../Paginas/CadastroViagem/ImagensReserva/Reserva.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    box-shadow: 0px 0px 10px 1px black;
+}
+.ft.card.container{
+    background-color: transparent;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}   
